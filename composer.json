@@ -4,10 +4,6 @@
     "type": "library",
     "homepage": "https://www.avency.de",
     "license": ["MIT"],
-    "require": {
-        "php": "^7.2|^8.0",
-        "guzzlehttp/guzzle": "^7.3"
-    },
     "autoload": {
         "psr-4": {
             "Avency\\Gitea\\": "Classes"
